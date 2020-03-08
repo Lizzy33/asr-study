@@ -1,3 +1,5 @@
+https://blog.csdn.net/u010636181/article/details/89924796
+
 # asr-study: a study of all-neural speech recognition models
 This repository contains my efforts on developing an end-to-end ASR system using Keras and Tensorflow.
 
